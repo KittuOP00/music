@@ -69,10 +69,10 @@ def stream_markup_timer(_, chat_id, played, dur):
         ],
       [
             InlineKeyboardButton(
-                text="🪄 𝐌αɢɪᴄ", url="https://t.me/kittuxmusicc_bot?start=_tgr_TZybbBE2YzM1",
+                text="🪄 𝐌αɢɪᴄ", url="https://t.me/mussicxbot?start=_tgr_mS1_CE80MDQ1",
             ),
             InlineKeyboardButton(
-                text="🎁 𝐆ɪғᴛ", url="https://t.me/kittuxmusicc_bot?startgroup",
+                text="🎁 𝐆ɪғᴛ", url="https://t.me/mussicxbot?startgroup",
             )
         ],
          [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
@@ -91,10 +91,10 @@ def stream_markup(_, chat_id):
          ],
         [
             InlineKeyboardButton(
-                text="🪄 𝐌αɢɪᴄ", url="https://t.me/kittuxmusicc_bot?start=_tgr_TZybbBE2YzM1",
+                text="🪄 𝐌αɢɪᴄ", url="https://t.me/mussicxbot?start=_tgr_mS1_CE80MDQ1",
             ),
             InlineKeyboardButton(
-                text="🎁 𝐆ɪғᴛ", url="https://t.me/kittuxmusicc_bot?startgroup",
+                text="🎁 𝐆ɪғᴛ", url="https://t.me/mussicxbot?startgroup",
             )
         ],
         [InlineKeyboardButton(text=_["CLOSE_BUTTON"], callback_data="close")],
